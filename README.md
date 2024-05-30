@@ -16,6 +16,7 @@
   
 
 **Personal Projects**
+- RL based 2048 solver (Capstone Project) | [repo](https://github.com/nonzerofloat/2048)
 - Pathage: Simple Flask based online library of deep TSP solvers
   
 <!--
