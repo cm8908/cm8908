@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- **Interests**: Machine Learning, Deep Learning, Generative AI, Routing Problems, Optimization
+- **Interests**: Machine Learning, Deep Learning, Computer Vision, Computer Graphics, LLM, Multimodal AI
+- **CV**: [Google Drive](https://drive.google.com/file/d/1GhlhYV5gH3YeCCSmCmUpF5l9m1U9IInX/view)
+- **Portfolio**: [Notion](https://receptive-song-0aa.notion.site/Portfolio-2faaafb418ef43b99d1bb943fc4d5034?pvs=74)
 - **Blog**: https://cm8908.github.io
 
 **Papers**
