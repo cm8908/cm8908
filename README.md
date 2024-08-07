@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- **Interests**: Machine Learning, Deep Learning, Computer Vision, Computer Graphics, LLM, Multimodal AI
-- **CV**: [Google Drive](https://drive.google.com/file/d/1GhlhYV5gH3YeCCSmCmUpF5l9m1U9IInX/view)
-- **Portfolio**: [Notion](https://receptive-song-0aa.notion.site/Portfolio-2faaafb418ef43b99d1bb943fc4d5034?pvs=74)
-- **Blog**: https://cm8908.github.io
+- **Interests**: Machine Learning, Deep Learning, Computer Vision, LLM,  Computer Graphics, Multimodal AI
+- **CV**: [Google Drive](https://drive.google.com/file/d/1Kx4HvrhVMWocvcQtgTwrnXAuYWznE4Zz/view?usp=sharing)
+- **Portfolio**: [Google Drive](https://drive.google.com/file/d/1Ka-LTuHhTqsn_7S2ptRpzBSVHNENph_w/view?usp=sharing)
+- **Blog**(?): https://cm8908.github.io
 
 **Papers**
 - M. Jung, M. Kim, J. Kim, ContrastCAD: Contrastive Learning-based Representation Learning for Computer-Aided design models, IEEE Access, 2024.04 | [arXiv](https://arxiv.org/abs/2404.01645) | [repo](https://github.com/cm8908/ContrastCAD) | [Xplore](https://ieeexplore.ieee.org/document/10559801)
