@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- **Interests**: Machine Learning, Deep Learning, Computer Vision, LLM,  Computer Graphics, Multimodal AI
-- **Blog**: https://cm8908.github.io
+- **Role/Afillation**: AI Researcher @ INTERX
+- **Interests**: Large Language Models, Context Engineering, CAD, Machine Learning
+<!-- - **Blog**: https://cm8908.github.io -->
 
-**Papers**
+**Papers (First author)**
 - M. Jung, M. Kim, J. Kim, ContrastCAD: Contrastive Learning-based Representation Learning for Computer-Aided design models, IEEE Access, 2024.04 | [arXiv](https://arxiv.org/abs/2404.01645) | [repo](https://github.com/cm8908/ContrastCAD) | [Xplore](https://ieeexplore.ieee.org/document/10559801)
 - M. Jung, J. Lee, J. Kim, A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, Applied Intelligence, 2023.03 | [arXiv](https://arxiv.org/abs/2305.01883) | [repo](https://github.com/cm8908/CNN_Transformer3) | [Springer](https://link.springer.com/article/10.1007/s10489-024-05603-x)
 - M. Jung, M. Kim, J. Kim, 트랜스포머 오토인코더와 Diffusion 모델을 사용한 3D CAD 모델 생성 방법, 전자공학회논문지, 2023.11 | [paper](https://paper.cricit.kr/user/listview/ieie2018/doc_rdoc.asp?catvalue=3&returnVal=RD_R&organCode=ieie&organCode2=ieie01&yearmonth=202312&page=1&dn=426996&step=&usernum=0&seid=)
