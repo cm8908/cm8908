@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- **Role/Afillation**: AI Researcher @ INTERX
+- **Role/Afilliation**: AI Researcher @ INTERX
 - **Interests**: Large Language Models, Context Engineering, CAD, Machine Learning
 <!-- - **Blog**: https://cm8908.github.io -->
 
